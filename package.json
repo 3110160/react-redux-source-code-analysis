@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-source-code-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3110160/react-redux-source-code-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3110160/react-redux-source-code-analysis/issues"
+  },
+  "homepage": "https://github.com/3110160/react-redux-source-code-analysis#readme",
+  "dependencies": {
+    "react-redux": "^7.1.1"
+  }
+}
